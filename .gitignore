@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_pat_*.pkl
+_mods.pkl
+*.stl
+node_modules/
